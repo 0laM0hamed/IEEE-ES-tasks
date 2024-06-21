@@ -16,7 +16,7 @@ for(i=0;i<size;i++)
     scanf("%d",(arr+i));
 }
 printf(" enter the element you want to search for");
-scanf("%d"&,search)
+scanf("%d",&search);
 while (arr<= end1&& *arr!=search)
 {
     arr++;
