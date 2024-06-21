@@ -15,7 +15,7 @@ int main()
     printf("enter elements of first matrix at size %d %d",ROW,COL);
     matrix1(mat1);
 
-     printf("enter elements of first matrix at size %d %d",ROW,COL);
+     printf("enter elements of second matrix at size %d %d",ROW,COL);
      matrix1(mat2);
 
     matrixmulti(mat1,mat2,pro);
